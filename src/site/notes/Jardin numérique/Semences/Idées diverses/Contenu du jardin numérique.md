@@ -3,5 +3,6 @@
 ---
 
 
-Le jardin sera la partie publiée (communiquée) à l’extérieur de mon coffre Obsidian. Il sera sans doute très éclectique.
+# Contenu du jardin numérique
 
+Le jardin sera la partie publiée (communiquée) à l’extérieur de mon coffre Obsidian. Il sera sans doute très éclectique.

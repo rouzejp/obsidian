@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardin-numerique/semences/semences/","tags":["categorie/MOCS","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/jardin-numerique/semences/semences/","tags":["categorie/MOCS","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
