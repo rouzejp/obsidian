@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardin-numerique/semences/publies-sur-les-reseaux/publies-sur-les-reseaux/","tags":["categorie/MOCS","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/jardin-numerique/semences/publies-sur-les-reseaux/publies-sur-les-reseaux/","tags":["categorie/MOCS","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 
